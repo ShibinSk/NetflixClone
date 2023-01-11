@@ -1,0 +1,46 @@
+.banner {
+    /* background-image:url('https://wallpaperaccess.com/full/2703652.png') ; */
+    background-size: cover;
+    height: 600px;
+    color: rgb(255, 255, 255);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.content {
+    padding-top: 15%;
+    height: 190px;
+    padding-left: 15px;
+}
+
+.title {
+    font-size: 3rem;
+    font-weight: 800;
+    padding-bottom: 0.3rem;
+}
+
+.button {
+    color: white;
+    outline: none;
+    border: none;
+    font-weight: 700;
+    border-radius: 5px;
+    padding-left: 2rem;
+    padding-right: 3rem;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    background-color: rgba(51, 51, 51, .5);
+    cursor: pointer;
+    margin-left: 1rem;
+}
+
+.button:hover {
+    color: black;
+    background-color: #e6e6e6;
+}
+
+.fade-bottom {
+    height: 7.8rem;
+    padding-top: 50rem;
+    background-image: linear-gradient(transparent, rgba(37, 37, 37, .61), #111);
+
+}
